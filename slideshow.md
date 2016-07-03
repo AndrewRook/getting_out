@@ -19,13 +19,48 @@
 ---
 
 #Outline
-* What I do now versus what I did in my PhD
+* The academic job market
+* Compare and Contrast: PhD and Data Science
 * Advice for students
 * Advice for faculty
 
 ---
 
-#Then/Now
+#Real Talk
+
+<img src="images/astro_employment.png" style="border:0px" height=500px><!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+##For the "Lucky" Ones
+* 5-7 years of grad school <!-- .element: class="fragment" data-fragment-index="1" -->
+* 2-3 years of postdoc <!-- .element: class="fragment" data-fragment-index="2" --> *(lather, rinse repeat)* <!-- .element: class="fragment" data-fragment-index="3" -->
+* 5-7 years on tenure track <!-- .element: class="fragment" data-fragment-index="4" -->
+* <!-- .element: class="fragment" data-fragment-index="5" -->*almost no control over where you live*
+
+
+##Your Day-to-Day as a Faculty Member
+* Write grant applications
+* Teach courses
+* Mentor students
+* Serve on Committees
+* *Notice I didn't mention "do research"*
+
+
+##Other Options
+* Liberal Arts School
+  * Less pressure to get grants and publish
+  * Heavy focus on teaching and mentoring undergrads
+* Research Labs
+  * Focus on doing research
+  * Infrequent mentorship/teaching opportunities
+  * Relatively rare
+* Soft Money
+  * Totally free to do what you want
+  * Totally at the mercy of the grant cycle
+
+---
+
+#My Life, Then & Now
 
 
 ##Work-Life Balance
@@ -52,9 +87,11 @@
 * Then
   * Python/Bash scripts, small C++ programs, some PHP
   * Smattering of shared memory parallelization and distributed computing
+  * Plots, powerpoint, papers
 * Now
   * Python packages (modules, unit tests, code reviews, style standards, automated documentation)
-  * Hadoop/Spark
+  * Hadoop
+  * Interactive data visualization
   * AWS/Devops
 
 
