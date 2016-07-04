@@ -52,16 +52,16 @@
 
 
 ##Other Options
-* Liberal Arts School
-  * Less pressure to get grants and publish
-  * Heavy focus on teaching and mentoring undergrads
-* Research Labs
-  * Focus on doing research
-  * Infrequent mentorship/teaching opportunities
-  * Relatively rare
-* Soft Money
-  * Totally free to do what you want
-  * Totally at the mercy of the grant cycle
+* Liberal Arts School <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Less pressure to get grants and publish <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Heavy focus on teaching and mentoring undergrads <!-- .element: class="fragment" data-fragment-index="3" -->
+* Research Labs <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Focus on doing research <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Infrequent mentorship/teaching opportunities <!-- .element: class="fragment" data-fragment-index="6" -->
+  * Relatively rare <!-- .element: class="fragment" data-fragment-index="7" -->
+* Soft Money <!-- .element: class="fragment" data-fragment-index="8" -->
+  * Totally free to do what you want <!-- .element: class="fragment" data-fragment-index="9" -->
+  * Totally at the mercy of the grant cycle <!-- .element: class="fragment" data-fragment-index="10" -->
 
 ---
 
@@ -87,59 +87,57 @@
 
 
 ##Work-Life Balance
-* Then
-  * Pressure to work long hours
-  * Few boundaries
-  * Set your own schedule
-* Now
-  * Nobody expects more than 40 hours per week
-  * People are surprised when you respond to emails on weekends
-  * Some expectation for a schedule resembling a 9-5
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Pressure to work long hours <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Few boundaries <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Set your own schedule <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Nobody expects more than 40 hours per week <!-- .element: class="fragment" data-fragment-index="4" -->
+  * People are surprised when I respond to emails on weekends <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Some expectation for a schedule resembling a 9-5 <!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 ##Day-to-Day
-* Then
-  * Work on big-picture problems with far-off deadlines
-  * Couple of meetings per week
-* Now
-  * Lots of smaller deadlines on short timescales
-  * 2-5 meetings per day
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Work on big-picture problems with far-off deadlines <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Couple of meetings per week <!-- .element: class="fragment" data-fragment-index="2" -->
+* Now <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Lots of smaller deadlines on short timescales <!-- .element: class="fragment" data-fragment-index="3" -->
+  * 2-5 meetings per day <!-- .element: class="fragment" data-fragment-index="4" -->
 
 
 ##Tools
-* Then
-  * Python/Bash scripts, small C++ programs, some PHP
-  * Smattering of shared memory parallelization and distributed computing
-  * Plots, powerpoint, papers
-* Now
-  * Python packages (modules, unit tests, code reviews, style standards, automated documentation)
-  * Hadoop
-  * Interactive data visualization
-  * AWS/Devops
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Python/Bash scripts, small C++ programs, some PHP <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Smattering of shared memory parallelization and distributed computing <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Plots, powerpoint, papers <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Python packages (modules, unit tests, code reviews, style standards, automated documentation) <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Hadoop <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Interactive data visualization <!-- .element: class="fragment" data-fragment-index="6" -->
+  * AWS/Devops <!-- .element: class="fragment" data-fragment-index="7" -->
 
 
 ##Perks
-* Then
-  * Set your own schedule
-  * Occasional free lunch
-* Now
-  * Money (salary and 401(k) matching + bonus + stock)
-  * Location
-  * Laptop + cell phone
-  * t-shirts + other swag
-  * Corporate travel
-  * Occasional free lunch
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Set my own schedule <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="2" -->
+* Now <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Jobs in places I want to work <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Salary commensurate with my skills and education <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Corporate swag <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="6" -->
 
 
 ##Projects
-* Then
-  * Vague constraints
-  * Limited oversight
-  * End goal: publish paper
-* Now
-  * Deadlines
-  * Project Management
-  * End goal: build something that affects the lives of millions of people
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Vague constraints <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Limited oversight <!-- .element: class="fragment" data-fragment-index="2" -->
+  * End goal: publish paper <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Deadlines <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Project Management <!-- .element: class="fragment" data-fragment-index="5" -->
+  * End goal: build something that affects the lives of millions of people <!-- .element: class="fragment" data-fragment-index="6" -->
 
 ---
 <!-- .slide: data-background="#1ABC9C" -->
@@ -155,7 +153,7 @@
 
 
 * Leaving academia is not failing
-  * <!-- .element: class="fragment" data-fragment-index="1" -->Unless you totally ignore the possibility
+  * <!-- .element: class="fragment" data-fragment-index="1" -->Unless you totally ignore the possibility of leaving until you're forced out
 
 
 <img src="images/backup.jpg" style="border:0px" height=600px>
@@ -180,27 +178,62 @@
 
 
 * Your code is your craft
-  * Use OSS
-  * Write the best code you can
-  * Use modern version control
+  * <!-- .element: class="fragment" data-fragment-index="1" --> Use OSS
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Write the best code you can
+  * <!-- .element: class="fragment" data-fragment-index="3" --> Use modern version control
 
 
 * Choose your projects carefully
-  * Build tools for others
-  * Use parallel/distributed computing
-  * Work on large datasets
-  * Employ machine learning techniques beyond linear regression
+  * <!-- .element: class="fragment" data-fragment-index="1" --> Build tools for others
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Use parallel/distributed computing
+  * <!-- .element: class="fragment" data-fragment-index="3" --> Work on large datasets
+  * <!-- .element: class="fragment" data-fragment-index="4" --> Employ machine learning techniques beyond linear regression
 
 
 * Get practice on the side
-  * Passion projects
-  * Kaggle contests
-  * (Always be learning)[http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf]
+  * <!-- .element: class="fragment" data-fragment-index="1" --> Passion projects
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Kaggle contests
+  * <!-- .element: class="fragment" data-fragment-index="3" -->[Always be learning](http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
 
 
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
 
 
 * Timing matters
-  * ...but isn't everything
-  * Be prepared to explain why you're changing careers
+  * <!-- .element: class="fragment" data-fragment-index="1" -->...but isn't everything
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
+
+---
+<!-- .slide: data-background="#D35400" -->
+
+#Advice for Mentors
+
+
+<img src="images/andy_backup.jpg" style="border:0px" height=500px>
+
+
+* Day 1, ask "what is your Plan B?"
+  * <!-- .element: class="fragment" data-fragment-index="1" --> Demand they come up with something coherent and well thought-out
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Work with them to figure out how to prepare for it.
+
+
+<img src="images/normal.jpg" style="border:0px" height=500px>
+
+
+* Recognize that this should be normal
+  * <!-- .element: class="fragment" data-fragment-index="1" --> Getting a job in academia is the unusual outcome.
+  * <!-- .element: class="fragment" data-fragment-index="2" --> There's a huge amount of luck involved
+
+
+<img src="images/qualified.jpg" style="border:0px" height=500px>
+
+
+* Find help
+  * <!-- .element: class="fragment" data-fragment-index="1" --> You're probably not qualified to give specific advice
+  * <!-- .element: class="fragment" data-fragment-index="2" --> Work your network to find connections who are
+
+---
+<!-- .slide: data-background="#3498DB" -->
+
+#Questions? Let's Chat!
+
