@@ -144,10 +144,63 @@
 ---
 <!-- .slide: data-background="#1ABC9C" -->
 
-#Getting into Data Science
+#Advice for Job-Seekers
 
 ---
 
-##Timing Matters
+#General Advice
+
+
+<img src="images/failure.jpg" style="border:0px" height=600px>
+
+
+* Leaving academia is not failing
+  * <!-- .element: class="fragment" data-fragment-index="1" -->Unless you totally ignore the possibility
+
+
+<img src="images/backup.jpg" style="border:0px" height=600px>
+
+
+* Have a back up plan
+  * <!-- .element: class="fragment" data-fragment-index="1" -->The sooner, the better
+  * <!-- .element: class="fragment" data-fragment-index="2" -->Start acting on it 
+
+
+<img src="images/internships.jpg" style="border:0px" height=600px>
+
+
+* Internships
+   * <!-- .element: class="fragment" data-fragment-index="1" -->...exist!
+   * <!-- .element: class="fragment" data-fragment-index="2" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
+   * <!-- .element: class="fragment" data-fragment-index="3" -->Grease the skids of a job hunt
+   
+---
+
+#For Data Science
+
+
+* Your code is your craft
+  * Use OSS
+  * Write the best code you can
+  * Use modern version control
+
+
+* Choose your projects carefully
+  * Build tools for others
+  * Use parallel/distributed computing
+  * Work on large datasets
+  * Employ machine learning techniques beyond linear regression
+
+
+* Get practice on the side
+  * Passion projects
+  * Kaggle contests
+  * (Always be learning)[http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf]
+
 
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
+
+
+* Timing matters
+  * ...but isn't everything
+  * Be prepared to explain why you're changing careers
