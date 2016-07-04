@@ -20,13 +20,18 @@
 
 #Outline
 * The academic job market
-* Compare and Contrast: PhD and Data Science
-* Advice for students
-* Advice for faculty
+* Compare and contrast: PhD and data science
+* Advice for job-seekers
+* Advice for mentors
+
+---
+<!-- .slide: data-background="#E74C3C" -->
+
+#Real Talk
 
 ---
 
-#Real Talk
+##The Astronomy Job Market Sucks
 
 <img src="images/astro_employment.png" style="border:0px" height=500px><!-- .element: class="fragment" data-fragment-index="1" -->
 
@@ -59,6 +64,24 @@
   * Totally at the mercy of the grant cycle
 
 ---
+
+<img src="images/despair.jpg" style="border:0px" height=600px>
+
+
+<img src="images/sunshine.jpg" style="border:0px" height=600px>
+
+---
+
+##Other, *Other* Options
+* <!-- .element: class="fragment grow highlight-red" data-fragment-index="2" -->Data Science
+* Public Policy
+* Education and Outreach
+* Aerospace
+* Project Management
+* <!-- .element: class="fragment" data-fragment-index="1" -->Others
+
+---
+<!-- .slide: data-background="#D4AC0D" -->
 
 #My Life, Then & Now
 
@@ -101,6 +124,7 @@
   * Occasional free lunch
 * Now
   * Money (salary and 401(k) matching + bonus + stock)
+  * Location
   * Laptop + cell phone
   * t-shirts + other swag
   * Corporate travel
@@ -108,5 +132,22 @@
 
 
 ##Projects
+* Then
+  * Vague constraints
+  * Limited oversight
+  * End goal: publish paper
+* Now
+  * Deadlines
+  * Project Management
+  * End goal: build something that affects the lives of millions of people
 
 ---
+<!-- .slide: data-background="#1ABC9C" -->
+
+#Getting into Data Science
+
+---
+
+##Timing Matters
+
+<img src="images/data_science_odds.png" style="border:0px" height=500px>
