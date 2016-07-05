@@ -200,6 +200,7 @@
   * <!-- .element: class="fragment" data-fragment-index="1" --> Use OSS
   * <!-- .element: class="fragment" data-fragment-index="2" --> Write the best code you can
   * <!-- .element: class="fragment" data-fragment-index="3" --> Use modern version control
+* <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
 * Choose your projects carefully
@@ -213,6 +214,7 @@
   * <!-- .element: class="fragment" data-fragment-index="1" --> Passion projects
   * <!-- .element: class="fragment" data-fragment-index="2" --> Kaggle contests
   * <!-- .element: class="fragment" data-fragment-index="3" -->[Always be learning](http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
+* <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
