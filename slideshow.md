@@ -2,14 +2,15 @@
 
 #Getting Out <!-- .element: class="title-1"-->
 ###One Astronomer's Journey from the Ivory Tower to Greener Pastures <!-- .element: class="title-3"-->
+####<!-- .element: class="fragment" data-fragment-index="1" --> <a href="https://andrewrook.github.io/getting_out/#/">andrewrook.github.io/getting_out</a>
 
 ---
 <!-- .slide: data-background="#383838" -->
 
 #whoami
-* PhD Astronomy, UW-Madison, December 2013
-* Data Scientist at Capital One
-* [Part time NFL analyst](https://phdfootball.blogspot.com/), cooking enthusiast, dad
+* <!-- .element: class="fragment" data-fragment-index="1" --> PhD Astronomy, UW-Madison, December 2013
+* <!-- .element: class="fragment" data-fragment-index="1" --> Data Scientist at Capital One
+* <!-- .element: class="fragment" data-fragment-index="1" -->[Part time NFL analyst](https://phdfootball.blogspot.com/), cooking enthusiast, dad
 
 
 <!-- .slide: data-background="#383838" -->
@@ -31,16 +32,28 @@
 
 ---
 
-##The Astronomy Job Market Sucks
+#The Astronomy Job Market Sucks
 
-<img src="images/astro_employment.png" style="border:0px" height=500px><!-- .element: class="fragment" data-fragment-index="1" -->
+
+<img src="images/astro_employment.png" style="border:0px" height=500px>
 
 
 ##For the "Lucky" Ones
 * 5-7 years of grad school <!-- .element: class="fragment" data-fragment-index="1" -->
-* 2-3 years of postdoc <!-- .element: class="fragment" data-fragment-index="2" --> *(lather, rinse repeat)* <!-- .element: class="fragment" data-fragment-index="3" -->
-* 5-7 years on tenure track <!-- .element: class="fragment" data-fragment-index="4" -->
-* <!-- .element: class="fragment" data-fragment-index="5" -->*almost no control over where you live*
+* 2-3 years of postdoc <!-- .element: class="fragment" data-fragment-index="2" -->
+* <!-- .element: style="color:black" --> 5-7 years on tenure track
+
+
+<img src="images/postdoc.jpg" style="border:0px" height=500px>
+
+
+##For the "Lucky" Ones
+* 5-7 years of grad school
+* 2-3 years of postdoc
+* 5-7 years on tenure track
+
+
+<img src="images/living.jpg" style="border:0px" height=500px>
 
 
 ##Your Day-to-Day as a Faculty Member
@@ -48,7 +61,9 @@
 * Teach courses
 * Mentor students
 * Serve on Committees
-* *Notice I didn't mention "do research"*
+
+
+<img src="images/faculty_research.jpg" style="border:0px" height=600px>
 
 
 ##Other Options
@@ -73,12 +88,15 @@
 ---
 
 ##Other, *Other* Options
-* <!-- .element: class="fragment grow highlight-red" data-fragment-index="2" -->Data Science
-* Public Policy
-* Education and Outreach
-* Aerospace
-* Project Management
-* <!-- .element: class="fragment" data-fragment-index="1" -->Others
+* Data Science <!-- .element: class="fragment" data-fragment-index="1" -->
+* Public Policy <!-- .element: class="fragment" data-fragment-index="2" -->
+* Education and Outreach <!-- .element: class="fragment" data-fragment-index="2" -->
+* Aerospace <!-- .element: class="fragment" data-fragment-index="2" -->
+* Project Management <!-- .element: class="fragment" data-fragment-index="2" -->
+* <!-- .element: class="fragment" data-fragment-index="3" -->...and then some
+
+
+<img src="images/careers.jpg" style="border:0px" height=600px>
 
 ---
 <!-- .slide: data-background="#D4AC0D" -->
@@ -113,9 +131,10 @@
   * Plots, powerpoint, papers <!-- .element: class="fragment" data-fragment-index="3" -->
 * Now <!-- .element: class="fragment" data-fragment-index="4" -->
   * Python packages (modules, unit tests, code reviews, style standards, automated documentation) <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Hadoop <!-- .element: class="fragment" data-fragment-index="5" -->
-  * Interactive data visualization <!-- .element: class="fragment" data-fragment-index="6" -->
-  * AWS/Devops <!-- .element: class="fragment" data-fragment-index="7" -->
+  * Git and GitHub <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Hadoop <!-- .element: class="fragment" data-fragment-index="6" -->
+  * Interactive data visualization <!-- .element: class="fragment" data-fragment-index="7" -->
+  * AWS/Devops <!-- .element: class="fragment" data-fragment-index="8" -->
 
 
 ##Perks
