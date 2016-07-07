@@ -276,18 +276,21 @@
 * Discourage grad students from doing a Physics minor
 * Get a departmental GitHub membership
 
+
 ###De-Stigmatize Non-Academic Careers
 * Keep in better contact with alumni outside of astronomy
 * Talk openly with students about options outside of academia
 * Bring in more speakers to talk about non-academic career paths
 
+
 ###Institutionalize Changes
 * Hire faculty who are prominent in the open source community.
-* Add career discussions to Committee of 3, Thesis proposals, and other grad student/faculty check-ins
+* Add career discussions to Committee of 3 meetings, thesis proposals, and other grad student/faculty check-ins
 * Put detailed implementation guidelines for addressing non-academic career paths in the Strategic Plan
 
 
 ###Rationale
+<img src="images/opinion.jpg" style="border:0px" height=500px>
 
 
 ---
