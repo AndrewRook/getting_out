@@ -24,6 +24,7 @@
 * Compare and contrast: PhD and data science
 * Advice for job-seekers
 * Advice for mentors
+* Advice for departments
 
 ---
 <!-- .slide: data-background="#E74C3C" -->
@@ -168,28 +169,31 @@
 #General Advice
 
 
+###Leaving Academia is **NOT** Failing
 <img src="images/failure.jpg" style="border:0px" height=600px>
 
 
-* Leaving academia is not failing
-  * <!-- .element: class="fragment" data-fragment-index="1" -->Unless you totally ignore the possibility of leaving until you're forced out
+###Leaving Academia is **NOT** Failing
+* Unless you totally ignore the possibility of leaving until you're forced out
 
 
+###Have a Back Up Plan
 <img src="images/backup.jpg" style="border:0px" height=600px>
 
 
-* Have a back up plan
-  * <!-- .element: class="fragment" data-fragment-index="1" -->The sooner, the better
-  * <!-- .element: class="fragment" data-fragment-index="2" -->Start acting on it 
+###Have a Back Up Plan
+* The sooner, the better
+* <!-- .element: class="fragment" data-fragment-index="1" -->Start acting on it 
 
 
+###Internships
 <img src="images/internships.jpg" style="border:0px" height=600px>
 
 
-* Internships
-   * <!-- .element: class="fragment" data-fragment-index="1" -->...exist!
-   * <!-- .element: class="fragment" data-fragment-index="2" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
-   * <!-- .element: class="fragment" data-fragment-index="3" -->Grease the skids of a job hunt
+###Internships
+* ...exist!
+* <!-- .element: class="fragment" data-fragment-index="1" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
+* <!-- .element: class="fragment" data-fragment-index="2" -->Grease the skids of a job hunt
    
 ---
 
@@ -230,28 +234,61 @@
 #Advice for Mentors
 
 
+###What Is Your Plan B?
 <img src="images/andy_backup.jpg" style="border:0px" height=500px>
 
 
-* Day 1, ask "what is your Plan B?"
-  * <!-- .element: class="fragment" data-fragment-index="1" --> Demand they come up with something coherent and well thought-out
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Work with them to figure out how to prepare for it.
+###What Is Your Plan B?
+* Ask about it on Day 1
+* <!-- .element: class="fragment" data-fragment-index="1" --> Demand they come up with something coherent and well thought-out
+* <!-- .element: class="fragment" data-fragment-index="2" --> Work with them to figure out how to prepare for it.
 
 
+###Recognize That This Should Be Normal
 <img src="images/normal.jpg" style="border:0px" height=500px>
 
 
-* Recognize that this should be normal
-  * <!-- .element: class="fragment" data-fragment-index="1" --> Getting a job in academia is the unusual outcome.
-  * <!-- .element: class="fragment" data-fragment-index="2" --> There's a huge amount of luck involved
+###Recognize That This Should Be Normal
+* Getting a job in academia is the unusual outcome.
+* <!-- .element: class="fragment" data-fragment-index="1" --> There's a huge amount of luck involved
 
 
+###Find Help
 <img src="images/qualified.jpg" style="border:0px" height=500px>
 
 
-* Find help
-  * <!-- .element: class="fragment" data-fragment-index="1" --> You're probably not qualified to give specific advice
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Work your network to find connections who are
+###Find Help
+* You're probably not qualified to give specific advice
+* <!-- .element: class="fragment" data-fragment-index="2" --> Work your network to find connections who are
+
+---
+<!-- .slide: data-background="#8E44AD" -->
+
+#Advice for Departments
+
+
+###Up Your Coding Game
+<img src="images/better_code.png" style="border:0px" height=500px>
+
+
+###Up Your Coding Game
+* Add more opportunities for students to learn programming
+* Discourage grad students from doing a Physics minor
+* Get a departmental GitHub membership
+
+###De-Stigmatize Non-Academic Careers
+* Keep in better contact with alumni outside of astronomy
+* Talk openly with students about options outside of academia
+* Bring in more speakers to talk about non-academic career paths
+
+###Institutionalize Changes
+* Hire faculty who are prominent in the open source community.
+* Add career discussions to Committee of 3, Thesis proposals, and other grad student/faculty check-ins
+* Put detailed implementation guidelines for addressing non-academic career paths in the Strategic Plan
+
+
+###Rationale
+
 
 ---
 <!-- .slide: data-background="#3498DB" -->
