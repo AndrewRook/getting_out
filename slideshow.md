@@ -1,8 +1,16 @@
 <!-- .slide: data-background="images/bliss.png" -->
 
 #Getting Out <!-- .element: class="title-1"-->
-###One Astronomer's Journey from the Ivory Tower to Greener Pastures <!-- .element: class="title-3"-->
+###True Tales of Life Outside the Ivory Tower and How You Can Live There Too <!-- .element: class="title-3"-->
 ####<!-- .element: class="fragment" data-fragment-index="1" --> <a href="https://andrewrook.github.io/getting_out/#/">andrewrook.github.io/getting_out</a>
+
+
+<!-- .slide: data-background="images/there_and_back_again.jpg" -->
+
+
+<!-- .slide: data-background="images/data_science_good.jpg" -->
+##The Andrew Schechtman-Rook Lecture for Astronomers Who Want to Data Science Good <!-- .element: class="title-2"-->
+###And Who Wanna Learn to Do Other Stuff Good Too <!-- .element: class="title-3"-->
 
 ---
 <!-- .slide: data-background="#383838" -->
