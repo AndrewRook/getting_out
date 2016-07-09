@@ -2,6 +2,7 @@
 
 #Getting Out <!-- .element: class="title-1"-->
 ###True Tales of Life Outside the Ivory Tower and How You Can Live There Too <!-- .element: class="title-3"-->
+###Andrew Schechtman-Rook, PhD <!-- .element: class="title-3"-->
 ####<!-- .element: class="fragment" data-fragment-index="1" --> <a href="https://andrewrook.github.io/getting_out/#/">andrewrook.github.io/getting_out</a>
 
 
@@ -58,8 +59,8 @@
 
 ##For the "Lucky" Ones
 * 5-7 years of grad school
-* 2-3 years of postdoc
-* 5-7 years on tenure track
+* ~~2-3~~ 5-9 years of postdoc
+* 5-7 years on tenure track <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 <img src="images/living.jpg" style="border:0px" height=500px>
@@ -191,7 +192,8 @@
 
 ###Have a Back Up Plan
 * The sooner, the better
-* <!-- .element: class="fragment" data-fragment-index="1" -->Start acting on it 
+* <!-- .element: class="fragment" data-fragment-index="1" -->Make it concrete and actionable
+* <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
 ###Internships
@@ -202,39 +204,62 @@
 * ...exist!
 * <!-- .element: class="fragment" data-fragment-index="1" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
 * <!-- .element: class="fragment" data-fragment-index="2" -->Grease the skids of a job hunt
-   
+
+
+###Talk to People
+<img src="images/informational_interview.jpg" style="border:0px" height=500px>
+
+
+###Talk to People
+* Informational interviews are super helpful
+* Don't be afraid to cold-email people<!-- .element: class="fragment" data-fragment-index="1" -->
+* Ask to see resumes<!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: In case anyone hasn't heard of this, it's going and chatting with people in careers you're interested in, not explicitly to get a job but more for understanding what they do, how they got there, and what skills they look for in job candidates. It seems intimidating to essentially beg strangers for their time, but almost everyone is glad to do it. Why? 1: people like helping people (and talking about themselves). 2: You build their network as they build yours. 3: Referral bonuses are a real thing.
+
 ---
 
 #For Data Science
 
 
-* Your code is your craft
-  * <!-- .element: class="fragment" data-fragment-index="1" --> Use OSS
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Write the best code you can
-  * <!-- .element: class="fragment" data-fragment-index="3" --> Use modern version control
+##Your code is your craft
+* <!-- .element: class="fragment" data-fragment-index="1" --> Use OSS
+* <!-- .element: class="fragment" data-fragment-index="2" --> Write the best code you can
+* <!-- .element: class="fragment" data-fragment-index="3" --> Use modern version control
 * <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
-* Choose your projects carefully
-  * <!-- .element: class="fragment" data-fragment-index="1" --> Build tools for others
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Use parallel/distributed computing
-  * <!-- .element: class="fragment" data-fragment-index="3" --> Work on large datasets
-  * <!-- .element: class="fragment" data-fragment-index="4" --> Employ machine learning techniques beyond linear regression
+<img src="images/first_commit.jpg" style="border:0px" height=600px>
 
 
-* Get practice on the side
-  * <!-- .element: class="fragment" data-fragment-index="1" --> Passion projects
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Kaggle contests
-  * <!-- .element: class="fragment" data-fragment-index="3" -->[Always be learning](http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
+##Choose your projects carefully
+* <!-- .element: class="fragment" data-fragment-index="1" --> Build tools for others
+* <!-- .element: class="fragment" data-fragment-index="2" --> Use parallel/distributed computing
+* <!-- .element: class="fragment" data-fragment-index="3" --> Work on large datasets
+* <!-- .element: class="fragment" data-fragment-index="4" --> Employ machine learning techniques 
 * <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
+<img src="images/pipeline.jpg" style="border:0px" height=600px>
+
+
+##Get practice on the side
+* <!-- .element: class="fragment" data-fragment-index="1" --> Passion projects
+* <!-- .element: class="fragment" data-fragment-index="2" --> Kaggle contests
+* <!-- .element: class="fragment" data-fragment-index="3" -->[Always be learning](http://duu86o6n09pv.cloudfront.net/reports/2015-data-science-salary-survey.pdf)
+* <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
+
+
+<img src="images/learning_machine.png" style="border:0px" height=500px>
+
+
+##Timing matters
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
 
 
-* Timing matters
-  * <!-- .element: class="fragment" data-fragment-index="1" -->...but isn't everything
-  * <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
+##Timing matters
+* <!-- .element: class="fragment" data-fragment-index="1" -->...but isn't everything
+* <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
 
 ---
 <!-- .slide: data-background="#D35400" -->
@@ -249,7 +274,7 @@
 ###What Is Your Plan B?
 * Ask about it on Day 1
 * <!-- .element: class="fragment" data-fragment-index="1" --> Demand they come up with something coherent and well thought-out
-* <!-- .element: class="fragment" data-fragment-index="2" --> Work with them to figure out how to prepare for it.
+* <!-- .element: class="fragment" data-fragment-index="2" --> Work with them to figure out how to prepare for it
 
 
 ###Recognize That This Should Be Normal
@@ -257,7 +282,7 @@
 
 
 ###Recognize That This Should Be Normal
-* Getting a job in academia is the unusual outcome.
+* Getting a job in academia is the unusual outcome
 * <!-- .element: class="fragment" data-fragment-index="1" --> There's a huge amount of luck involved
 
 
@@ -267,7 +292,7 @@
 
 ###Find Help
 * You're probably not qualified to give specific advice
-* <!-- .element: class="fragment" data-fragment-index="2" --> Work your network to find connections who are
+* <!-- .element: class="fragment" data-fragment-index="1" --> Work your network to find connections who are
 
 ---
 <!-- .slide: data-background="#8E44AD" -->
@@ -281,7 +306,6 @@
 
 ###Up Your Coding Game
 * Add more opportunities for students to learn programming
-* Discourage grad students from doing a Physics minor
 * Get a departmental GitHub membership
 
 
@@ -292,17 +316,57 @@
 
 
 ###Institutionalize Changes
-* Hire faculty who are prominent in the open source community.
+* Hire faculty who are prominent in the open source community
+* Discourage grad students from doing a Physics minor
 * Add career discussions to Committee of 3 meetings, thesis proposals, and other grad student/faculty check-ins
 * Put detailed implementation guidelines for addressing non-academic career paths in the Strategic Plan
 
 
-###Rationale
+##Rationale
 <img src="images/opinion.jpg" style="border:0px" height=500px>
 
+
+<img src="images/quality_code.jpg" style="border:0px" height=500px>
+
+
+* Better coding makes *everything* better
+  * Enable robust and repeatable analysis <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Realize that dream of having the new student pick up right where the old student left off <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Make collaboration as frictionless as possible <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Prepare students for success both inside and outside academia <!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+<img src="images/embrace_change.jpg" style="border:0px" height=500px>
+
+
+* Embracing this head-on will pay dividends
+  * Students will feel better supported, more confident, and happier <!-- .element: class="fragment" data-fragment-index="1" -->
+  * We'll attract more and better students to our graduate program <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Alumni will donate time, expertise, and money <!-- .element: class="fragment" data-fragment-index="3" -->
+
+
+
+<img src="images/getting_worse.png" style="border:0px" height=500px>
+
+
+* The problem is going to get worse, not better
+  * No signs of any positive change in job market <!-- .element: class="fragment" data-fragment-index="1" -->
+  * "Fixing" the market without encouraging alternative careers would almost certainly mean taking on many fewer graduate students and postdocs <!-- .element: class="fragment" data-fragment-index="2" -->
+
+Note: And if we have 50-75% fewer postdocs and grad students, who's going to be able to maintain a robust research program?
+
+---
+
+##The Time to Make These Changes is Now
+* We're hurting everyone by sticking our heads in the sand <!-- .element: class="fragment" data-fragment-index="1" -->
+* The community would laud our efforts <!-- .element: class="fragment" data-fragment-index="2" -->
+* We'd have a huge first-mover advantage <!-- .element: class="fragment" data-fragment-index="3" -->
+
+Note: because this problem is so obvious to everyone but nobody is really doing anything concrete yet it would be easy to get publicity and recognition, similar to how creating the family and emergency leave policy got us invited to speak in special sessions at the AAS. 
 
 ---
 <!-- .slide: data-background="#3498DB" -->
 
-#Questions? Let's Chat!
+#Questions?
+#Let's Chat!
 
