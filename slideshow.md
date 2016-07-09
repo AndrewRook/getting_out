@@ -18,8 +18,8 @@
 
 #whoami
 * <!-- .element: class="fragment" data-fragment-index="1" --> PhD Astronomy, UW-Madison, December 2013
-* <!-- .element: class="fragment" data-fragment-index="1" --> Data Scientist at Capital One
-* <!-- .element: class="fragment" data-fragment-index="1" -->[Part time NFL analyst](https://phdfootball.blogspot.com/), cooking enthusiast, dad
+* <!-- .element: class="fragment" data-fragment-index="2" --> Data Scientist at Capital One
+* <!-- .element: class="fragment" data-fragment-index="3" -->[Part time NFL analyst](https://phdfootball.blogspot.com/), cooking enthusiast, dad
 
 
 <!-- .slide: data-background="#383838" -->
