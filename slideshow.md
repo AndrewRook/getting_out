@@ -66,7 +66,7 @@
 <img src="images/living.jpg" style="border:0px" height=500px>
 
 
-##Your Day-to-Day as a Faculty Member
+###Your Day-to-Day as a Faculty Member
 * Write grant applications
 * Teach courses
 * Mentor students
@@ -306,20 +306,20 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 ###Up Your Coding Game
 * Add more opportunities for students to learn programming
-* Get a departmental GitHub membership
+* <!-- .element: class="fragment" data-fragment-index="1" --> Get a departmental GitHub membership
 
 
 ###De-Stigmatize Non-Academic Careers
 * Keep in better contact with alumni outside of astronomy
-* Talk openly with students about options outside of academia
-* Bring in more speakers to talk about non-academic career paths
+* <!-- .element: class="fragment" data-fragment-index="1" --> Talk openly with students about options outside of academia
+* <!-- .element: class="fragment" data-fragment-index="2" --> Bring in more speakers to talk about non-academic career paths
 
 
 ###Institutionalize Changes
 * Hire faculty who are prominent in the open source community
-* Discourage grad students from doing a Physics minor
-* Add career discussions to Committee of 3 meetings, thesis proposals, and other grad student/faculty check-ins
-* Put detailed implementation guidelines for addressing non-academic career paths in the Strategic Plan
+* <!-- .element: class="fragment" data-fragment-index="1" --> Discourage grad students from doing a Physics minor
+* <!-- .element: class="fragment" data-fragment-index="2" --> Add career discussions to Committee of 3 meetings, thesis proposals, and other grad student/faculty check-ins
+* <!-- .element: class="fragment" data-fragment-index="3" --> Put detailed implementation guidelines for addressing non-academic career paths in the Strategic Plan
 
 
 ##Rationale
