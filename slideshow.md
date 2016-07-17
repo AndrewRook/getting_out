@@ -212,8 +212,8 @@
 
 
 ##Conferences
-* Data Science: <a href="https://conference.scipy.org/">Scipy</a>, <a href="http://pydata.org/">PyData</a>, <a href="http://conferences.oreilly.com/strata">Strata</a>, <a href="https://www.r-project.org/conferences.html">useR</a>, <a href="http://conf.turi.com/">Data Science Summit</a><!-- .element: class="fragment" data-fragment-index="1" -->
-* Public Policy: <a href="http://www.aaas.org/page/forum-science-technology-policy">AAAS</a>, <a href="http://www.atlantaconference.org/">Atlanta Conference</a><!-- .element: class="fragment" data-fragment-index="2" -->
+* <!-- .element: class="fragment" data-fragment-index="1" --> Data Science: <a href="https://conference.scipy.org/">Scipy</a>, <a href="http://pydata.org/">PyData</a>, <a href="http://conferences.oreilly.com/strata">Strata</a>, <a href="https://www.r-project.org/conferences.html">useR</a>, <a href="http://conf.turi.com/">Data Science Summit</a>
+* <!-- .element: class="fragment" data-fragment-index="2" --> Public Policy: <a href="http://www.aaas.org/page/forum-science-technology-policy">AAAS</a>, <a href="http://www.atlantaconference.org/">Atlanta Conference</a>
 * Google is your friend<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
@@ -222,9 +222,9 @@
 
 
 ###Talk to People
-* Informational interviews are super helpful
-* Don't be afraid to cold-email people<!-- .element: class="fragment" data-fragment-index="1" -->
-* Ask to see resumes<!-- .element: class="fragment" data-fragment-index="2" -->
+* Informational interviews are super helpful <!-- .element: class="fragment" data-fragment-index="1" -->
+* Don't be afraid to cold-email people<!-- .element: class="fragment" data-fragment-index="2" -->
+* Ask to see resumes<!-- .element: class="fragment" data-fragment-index="3" -->
 
 Note: In case anyone hasn't heard of this, it's going and chatting with people in careers you're interested in, not explicitly to get a job but more for understanding what they do, how they got there, and what skills they look for in job candidates. It seems intimidating to essentially beg strangers for their time, but almost everyone is glad to do it. Why? 1: people like helping people (and talking about themselves). 2: You build their network as they build yours. 3: Referral bonuses are a real thing.
 
@@ -269,7 +269,6 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 * <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
 
 
-##Timing matters
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
 
 ---
