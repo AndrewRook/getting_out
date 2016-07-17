@@ -63,14 +63,15 @@
 * 5-7 years on tenure track <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-<img src="images/living.jpg" style="border:0px" height=500px>
+##Have a Nice Trip
+<img src="images/map.gif" style="border:0px">
 
 
 ###Your Day-to-Day as a Faculty Member
-* Write grant applications
-* Teach courses
-* Mentor students
-* Serve on Committees
+* Write grant applications <!-- .element: class="fragment" data-fragment-index="1" -->
+* Teach courses <!-- .element: class="fragment" data-fragment-index="1" -->
+* Mentor students <!-- .element: class="fragment" data-fragment-index="1" -->
+* Serve on Committees <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 <img src="images/faculty_research.jpg" style="border:0px" height=600px>
@@ -183,7 +184,7 @@
 
 
 ###Leaving Academia is **NOT** Failing
-* Unless you totally ignore the possibility of leaving until you're forced out
+* Unless you totally ignore the possibility of leaving until you're forced out<!-- .element: class="fragment" data-fragment-index="1" -->
 
 
 ###Have a Back Up Plan
@@ -191,8 +192,8 @@
 
 
 ###Have a Back Up Plan
-* The sooner, the better
-* <!-- .element: class="fragment" data-fragment-index="1" -->Make it concrete and actionable
+* The sooner, the better<!-- .element: class="fragment" data-fragment-index="1" -->
+* <!-- .element: class="fragment" data-fragment-index="2" -->Make it concrete and actionable
 * <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
@@ -201,9 +202,19 @@
 
 
 ###Internships
-* ...exist!
-* <!-- .element: class="fragment" data-fragment-index="1" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
-* <!-- .element: class="fragment" data-fragment-index="2" -->Grease the skids of a job hunt
+* ...exist!<!-- .element: class="fragment" data-fragment-index="1" -->
+* <!-- .element: class="fragment" data-fragment-index="2" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
+* <!-- .element: class="fragment" data-fragment-index="3" -->Grease the skids of a job hunt
+
+
+###Conferences
+<img src="images/conferences.jpg" style="border:0px" height=600px>
+
+
+##Conferences
+* Data Science: <a href="https://conference.scipy.org/">Scipy</a>, <a href="http://pydata.org/">PyData</a>, <a href="http://conferences.oreilly.com/strata">Strata</a>, <a href="https://www.r-project.org/conferences.html">useR</a>, <a href="http://conf.turi.com/">Data Science Summit</a><!-- .element: class="fragment" data-fragment-index="1" -->
+* Public Policy: <a href="http://www.aaas.org/page/forum-science-technology-policy">AAAS</a>, <a href="http://www.atlantaconference.org/">Atlanta Conference</a><!-- .element: class="fragment" data-fragment-index="2" -->
+* Google is your friend<!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ###Talk to People
@@ -254,12 +265,12 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 
 ##Timing matters
-<img src="images/data_science_odds.png" style="border:0px" height=500px>
+* <!-- .element: class="fragment" data-fragment-index="1" -->...but isn't everything
+* <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
 
 
 ##Timing matters
-* <!-- .element: class="fragment" data-fragment-index="1" -->...but isn't everything
-* <!-- .element: class="fragment" data-fragment-index="2" --> Be prepared to explain why you're changing careers
+<img src="images/data_science_odds.png" style="border:0px" height=500px>
 
 ---
 <!-- .slide: data-background="#D35400" -->
@@ -301,7 +312,7 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 
 ###Up Your Coding Game
-<img src="images/better_code.png" style="border:0px" height=500px>
+<img src="images/better_code.gif" style="border:0px" height=500px>
 
 
 ###Up Your Coding Game
@@ -310,9 +321,17 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 
 ###De-Stigmatize Non-Academic Careers
+<img src="images/stigma.gif" style="border:0px" height=600px>
+
+
+###De-Stigmatize Non-Academic Careers
 * Keep in better contact with alumni outside of astronomy
 * <!-- .element: class="fragment" data-fragment-index="1" --> Talk openly with students about options outside of academia
 * <!-- .element: class="fragment" data-fragment-index="2" --> Bring in more speakers to talk about non-academic career paths
+
+
+###Institutionalize Changes
+<img src="images/plans.jpg" style="border:0px" height=600px>
 
 
 ###Institutionalize Changes
