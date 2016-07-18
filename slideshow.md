@@ -63,8 +63,7 @@
 * 5-7 years on tenure track <!-- .element: class="fragment" data-fragment-index="1" -->
 
 
-##Have a Nice Trip
-<img src="images/map.gif" style="border:0px">
+<img src="images/travel.jpg" style="border:0px" height=550px>
 
 
 ###Your Day-to-Day as a Faculty Member
