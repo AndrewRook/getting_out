@@ -2,7 +2,7 @@
 
 #Getting Out <!-- .element: class="title-1"-->
 ###True Tales of Life Outside the Ivory Tower and How You Can Live There Too <!-- .element: class="title-3"-->
-###Andrew Schechtman-Rook, PhD <!-- .element: class="title-3"-->
+###Andrew Schechtman-Rook <!-- .element: class="title-3"-->
 ####<!-- .element: class="fragment" data-fragment-index="1" --> <a href="https://andrewrook.github.io/getting_out/#/">andrewrook.github.io/getting_out</a>
 
 
