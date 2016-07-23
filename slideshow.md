@@ -13,7 +13,7 @@
 ##The Andrew Schechtman-Rook Lecture for Astronomers Who Want to Data Science Good <!-- .element: class="title-2"-->
 ###And Who Wanna Learn to Do Other Stuff Good Too <!-- .element: class="title-3"-->
 
----
+===
 <!-- .slide: data-background="#383838" -->
 
 #whoami
@@ -26,7 +26,7 @@
 
 <img src="images/dani.jpg" style="border:0px">
 
----
+===
 
 #Outline
 * The academic job market
@@ -35,12 +35,12 @@
 * Advice for mentors
 * Advice for departments
 
----
+===
 <!-- .slide: data-background="#E74C3C" -->
 
 #Real Talk
 
----
+===
 
 #The Astronomy Job Market Sucks
 
@@ -88,14 +88,14 @@
   * Totally free to do what you want <!-- .element: class="fragment" data-fragment-index="9" -->
   * Totally at the mercy of the grant cycle <!-- .element: class="fragment" data-fragment-index="10" -->
 
----
+===
 
 <img src="images/despair.jpg" style="border:0px" height=600px>
 
 
 <img src="images/sunshine.jpg" style="border:0px" height=600px>
 
----
+===
 
 ##Other, *Other* Options
 * Data Science <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -108,72 +108,25 @@
 
 <img src="images/careers.jpg" style="border:0px" height=600px>
 
----
+===
 <!-- .slide: data-background="#D4AC0D" -->
 
 #My Life, Then & Now
 
 
-##Work-Life Balance
-* Then <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Pressure to work long hours <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Few boundaries <!-- .element: class="fragment" data-fragment-index="2" -->
-  * Set your own schedule <!-- .element: class="fragment" data-fragment-index="3" -->
-* Now <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Nobody expects more than 40 hours per week <!-- .element: class="fragment" data-fragment-index="4" -->
-  * People are surprised when I respond to emails on weekends <!-- .element: class="fragment" data-fragment-index="5" -->
-  * Some expectation for a schedule resembling a 9-5 <!-- .element: class="fragment" data-fragment-index="6" -->
+| Grad School                     |        Data Science                                        |
+| ------------------------------- | ---------------------------------------------------------- |
+| <span>Large projects, vague deadlines <!-- .element: class="fragment" data-fragment-index="1" --></span> | <span>Smaller projects, clear deadlines <!-- .element: class="fragment" data-fragment-index="2" --></span>                         |
+| <span>Simple scripting<br><br> <!-- .element: class="fragment" data-fragment-index="3" --></span>                | <span>Writing software <!-- .element: class="fragment" data-fragment-index="4" --> </span>                                          |
+| <span>Learning about the Universe <!-- .element: class="fragment" data-fragment-index="5" --></span>     | <span>Directly impacting the lives of millions of people <!-- .element: class="fragment" data-fragment-index="6" --></span>         |
+| <span>Occasional free lunch <!-- .element: class="fragment" data-fragment-index="7" --></span>           | <span><!-- .element: class="fragment" data-fragment-index="8" --> excellent compensation and benefits</span><span><!-- .element: class="fragment" data-fragment-index="9" -->, occasional free lunch</span> |
 
-
-##Day-to-Day
-* Then <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Work on big-picture problems with far-off deadlines <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Couple of meetings per week <!-- .element: class="fragment" data-fragment-index="2" -->
-* Now <!-- .element: class="fragment" data-fragment-index="3" -->
-  * Lots of smaller deadlines on short timescales <!-- .element: class="fragment" data-fragment-index="3" -->
-  * 2-5 meetings per day <!-- .element: class="fragment" data-fragment-index="4" -->
-
-
-##Tools
-* Then <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Python/Bash scripts, small C++ programs, some PHP <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Smattering of shared memory parallelization and distributed computing <!-- .element: class="fragment" data-fragment-index="2" -->
-  * Plots, powerpoint, papers <!-- .element: class="fragment" data-fragment-index="3" -->
-* Now <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Python packages (modules, unit tests, code reviews, style standards, automated documentation) <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Git and GitHub <!-- .element: class="fragment" data-fragment-index="5" -->
-  * Hadoop <!-- .element: class="fragment" data-fragment-index="6" -->
-  * Interactive data visualization <!-- .element: class="fragment" data-fragment-index="7" -->
-  * AWS/Devops <!-- .element: class="fragment" data-fragment-index="8" -->
-
-
-##Perks
-* Then <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Set my own schedule <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="2" -->
-* Now <!-- .element: class="fragment" data-fragment-index="3" -->
-  * Jobs in places I want to work <!-- .element: class="fragment" data-fragment-index="3" -->
-  * Salary commensurate with my skills and education <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Corporate swag <!-- .element: class="fragment" data-fragment-index="5" -->
-  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="6" -->
-
-
-##Projects
-* Then <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Vague constraints <!-- .element: class="fragment" data-fragment-index="1" -->
-  * Limited oversight <!-- .element: class="fragment" data-fragment-index="2" -->
-  * End goal: publish paper <!-- .element: class="fragment" data-fragment-index="3" -->
-* Now <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Deadlines <!-- .element: class="fragment" data-fragment-index="4" -->
-  * Project Management <!-- .element: class="fragment" data-fragment-index="5" -->
-  * End goal: build something that affects the lives of millions of people <!-- .element: class="fragment" data-fragment-index="6" -->
-
----
+===
 <!-- .slide: data-background="#1ABC9C" -->
 
 #Advice for Job-Seekers
 
----
+===
 
 #General Advice
 
@@ -227,7 +180,7 @@
 
 Note: In case anyone hasn't heard of this, it's going and chatting with people in careers you're interested in, not explicitly to get a job but more for understanding what they do, how they got there, and what skills they look for in job candidates. It seems intimidating to essentially beg strangers for their time, but almost everyone is glad to do it. Why? 1: people like helping people (and talking about themselves). 2: You build their network as they build yours. 3: Referral bonuses are a real thing.
 
----
+===
 
 #For Data Science
 
@@ -270,7 +223,7 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 <img src="images/data_science_odds.png" style="border:0px" height=500px>
 
----
+===
 <!-- .slide: data-background="#D35400" -->
 
 #Advice for Mentors
@@ -303,7 +256,7 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 * You're probably not qualified to give specific advice
 * <!-- .element: class="fragment" data-fragment-index="1" --> Work your network to find connections who are
 
----
+===
 <!-- .slide: data-background="#8E44AD" -->
 
 #Advice for Departments
@@ -372,7 +325,7 @@ Note: In case anyone hasn't heard of this, it's going and chatting with people i
 
 Note: And if we have 50-75% fewer postdocs and grad students, who's going to be able to maintain a robust research program?
 
----
+===
 
 ##The Time to Make These Changes is Now
 * We're hurting everyone by sticking our heads in the sand <!-- .element: class="fragment" data-fragment-index="1" -->
@@ -381,9 +334,73 @@ Note: And if we have 50-75% fewer postdocs and grad students, who's going to be 
 
 Note: because this problem is so obvious to everyone but nobody is really doing anything concrete yet it would be easy to get publicity and recognition, similar to how creating the family and emergency leave policy got us invited to speak in special sessions at the AAS. 
 
----
+===
 <!-- .slide: data-background="#3498DB" -->
 
 #Questions?
 #Let's Chat!
 
+===
+
+===
+
+#Appendix
+
+===
+
+#My Life, Then & Now
+
+
+##Work-Life Balance
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Pressure to work long hours <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Few boundaries <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Set your own schedule <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Nobody expects more than 40 hours per week <!-- .element: class="fragment" data-fragment-index="4" -->
+  * People are surprised when I respond to emails on weekends <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Some expectation for a schedule resembling a 9-5 <!-- .element: class="fragment" data-fragment-index="6" -->
+
+
+##Day-to-Day
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Work on big-picture problems with far-off deadlines <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Couple of meetings per week <!-- .element: class="fragment" data-fragment-index="2" -->
+* Now <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Lots of smaller deadlines on short timescales <!-- .element: class="fragment" data-fragment-index="3" -->
+  * 2-5 meetings per day <!-- .element: class="fragment" data-fragment-index="4" -->
+
+
+##Tools
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Python/Bash scripts, small C++ programs, some PHP <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Smattering of shared memory parallelization and distributed computing <!-- .element: class="fragment" data-fragment-index="2" -->
+  * Plots, powerpoint, papers <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Python packages (modules, unit tests, code reviews, style standards, automated documentation) <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Git and GitHub <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Hadoop <!-- .element: class="fragment" data-fragment-index="6" -->
+  * Interactive data visualization <!-- .element: class="fragment" data-fragment-index="7" -->
+  * AWS/Devops <!-- .element: class="fragment" data-fragment-index="8" -->
+
+
+##Perks
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Set my own schedule <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="2" -->
+* Now <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Jobs in places I want to work <!-- .element: class="fragment" data-fragment-index="3" -->
+  * Salary commensurate with my skills and education <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Corporate swag <!-- .element: class="fragment" data-fragment-index="5" -->
+  * Occasional free lunch <!-- .element: class="fragment" data-fragment-index="6" -->
+
+
+##Projects
+* Then <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Vague constraints <!-- .element: class="fragment" data-fragment-index="1" -->
+  * Limited oversight <!-- .element: class="fragment" data-fragment-index="2" -->
+  * End goal: publish paper <!-- .element: class="fragment" data-fragment-index="3" -->
+* Now <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Deadlines <!-- .element: class="fragment" data-fragment-index="4" -->
+  * Project Management <!-- .element: class="fragment" data-fragment-index="5" -->
+  * End goal: build something that affects the lives of millions of people <!-- .element: class="fragment" data-fragment-index="6" -->
