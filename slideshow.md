@@ -6,9 +6,6 @@
 ####<!-- .element: class="fragment" data-fragment-index="1" --> <a href="https://andrewrook.github.io/getting_out/#/">andrewrook.github.io/getting_out</a>
 
 
-<!-- .slide: data-background="images/there_and_back_again.jpg" -->
-
-
 <!-- .slide: data-background="images/data_science_good.jpg" -->
 ##The Andrew Schechtman-Rook Lecture for Astronomers Who Want to Data Science Good <!-- .element: class="title-2"-->
 ###And Who Wanna Learn to Do Other Stuff Good Too <!-- .element: class="title-3"-->
@@ -136,7 +133,7 @@
 
 
 ###Leaving Academia is **NOT** Failing
-* Unless you totally ignore the possibility of leaving until you're forced out<!-- .element: class="fragment" data-fragment-index="1" -->
+* Unless you totally ignore the possibility of leaving until you're forced out
 
 
 ###Have a Back Up Plan
@@ -144,8 +141,8 @@
 
 
 ###Have a Back Up Plan
-* The sooner, the better<!-- .element: class="fragment" data-fragment-index="1" -->
-* <!-- .element: class="fragment" data-fragment-index="2" -->Make it concrete and actionable
+* The sooner, the better
+* <!-- .element: class="fragment" data-fragment-index="1" -->Make it concrete and actionable
 * <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 
@@ -154,9 +151,9 @@
 
 
 ###Internships
-* ...exist!<!-- .element: class="fragment" data-fragment-index="1" -->
-* <!-- .element: class="fragment" data-fragment-index="2" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
-* <!-- .element: class="fragment" data-fragment-index="3" -->Grease the skids of a job hunt
+* ...exist!
+* <!-- .element: class="fragment" data-fragment-index="1" -->Will show you whether a field is right for you as well as what skills you'll need to thrive in it
+* <!-- .element: class="fragment" data-fragment-index="2" -->Grease the skids of a job hunt
 
 
 ###Conferences
@@ -164,9 +161,9 @@
 
 
 ##Conferences
-* <!-- .element: class="fragment" data-fragment-index="1" --> Data Science: <a href="https://conference.scipy.org/">Scipy</a>, <a href="http://pydata.org/">PyData</a>, <a href="http://conferences.oreilly.com/strata">Strata</a>, <a href="https://www.r-project.org/conferences.html">useR</a>, <a href="http://conf.turi.com/">Data Science Summit</a>
-* <!-- .element: class="fragment" data-fragment-index="2" --> Public Policy: <a href="http://www.aaas.org/page/forum-science-technology-policy">AAAS</a>, <a href="http://www.atlantaconference.org/">Atlanta Conference</a>
-* Google is your friend<!-- .element: class="fragment" data-fragment-index="3" -->
+* Data Science: <a href="https://conference.scipy.org/">Scipy</a>, <a href="http://pydata.org/">PyData</a>, <a href="http://conferences.oreilly.com/strata">Strata</a>, <a href="https://www.r-project.org/conferences.html">useR</a>, <a href="http://conf.turi.com/">Data Science Summit</a>
+* <!-- .element: class="fragment" data-fragment-index="1" --> Public Policy: <a href="http://www.aaas.org/page/forum-science-technology-policy">AAAS</a>, <a href="http://www.atlantaconference.org/">Atlanta Conference</a>
+* Google is your friend<!-- .element: class="fragment" data-fragment-index="2" -->
 
 
 ###Talk to People
@@ -174,9 +171,10 @@
 
 
 ###Talk to People
-* Informational interviews are super helpful <!-- .element: class="fragment" data-fragment-index="1" -->
-* Don't be afraid to cold-email people<!-- .element: class="fragment" data-fragment-index="2" -->
-* Ask to see resumes<!-- .element: class="fragment" data-fragment-index="3" -->
+* Informational interviews are super helpful
+* Don't be afraid to cold-email people<!-- .element: class="fragment" data-fragment-index="1" -->
+* Ask to see resumes<!-- .element: class="fragment" data-fragment-index="2" -->
+* <!-- .element: style="color:black" -->this is placeholder text to left alighn the list. it doesn't have any useful content in it.
 
 Note: In case anyone hasn't heard of this, it's going and chatting with people in careers you're interested in, not explicitly to get a job but more for understanding what they do, how they got there, and what skills they look for in job candidates. It seems intimidating to essentially beg strangers for their time, but almost everyone is glad to do it. Why? 1: people like helping people (and talking about themselves). 2: You build their network as they build yours. 3: Referral bonuses are a real thing.
 
